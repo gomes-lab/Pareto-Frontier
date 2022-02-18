@@ -294,4 +294,4 @@ If you have any questions or suggestions, please feel free to contact JGS at jgs
 *** Github link ***
 
 Further updates of the code can be found in the github repository of this project: 
-https://github.com/gomes-lab/Pareto
+https://github.com/gomes-lab/Pareto-Frontier
